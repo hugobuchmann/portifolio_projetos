@@ -3,23 +3,24 @@
 </p>
 
 # Hugo Buchmann
-<sub>*MSc, Engenheiro Florestal - Geoprocessamento*</sub>
+GEOTECNOLOGIA, MEIO AMBIENTE E DADOS
 
-DESCRIÇÂO
+<sub>*MSc, Engenheiro Florestal*</sub>
 
 [LinkedIn](https://www.linkedin.com/in/hugobuchmann/)
 
 **Áreas de Atuação**:
-* Python para Análise e Processamento de Dados
+* Sensoriamento Remoto e Geoprocessamento
+* Data Analyse e Data Science
 * Machine Learning
-* Inventário Florestal
-* Geoprocessamento
+* Inventário e Mensuração Florestal
+* Licenciamento, Estudos e Projetos Ambientais
 
 
 
 ## Projetos:
 
-* **xxxxxxx:** https://bit.ly/2L2cMwy
+* **xxxxxxx:**
 
 
 ---
